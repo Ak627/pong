@@ -14,7 +14,7 @@ p2Score = 0
 bx = 350
 by = 250
 bVx = 5
-bVy = 1
+bVy = 5
 doExit = False
 clock = pygame.time.Clock()
 while not doExit:
